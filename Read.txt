@@ -1,0 +1,4 @@
+Bonne version
+
+Pour récupérer des ressources il faut tirer sur le mannequin puis faire f pour ramasser les items.
+Pour voir l'inventaire il est possible d'appuyer sur i ou aller vers le stand du forgeron.
